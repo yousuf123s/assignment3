@@ -1,0 +1,41 @@
+
+
+
+button{
+    
+    text-align: left;
+    text-align: top;
+   height: 30px;
+   margin-top: 10px;
+}
+#header-div1{
+    background-color: #316DC3;
+    height: 50PX; 
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    border: 2px;
+    margin: auto;
+    margin-top: auto;
+    margin-left: auto;
+}
+#header-div2{
+    background: #316DC3;
+    color: wheat;
+    margin-top: 600px;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin: 20px;
+}
+ul li{
+    display: inline-block;
+    border: 1px solid black;
+}
+UL LI A{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    
+}
